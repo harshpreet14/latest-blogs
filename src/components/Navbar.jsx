@@ -9,7 +9,7 @@ const Navbar = () => {
 
   return (
     <div className="w-full h-[70px] bg-white border-b">
-      <div className="md:max-w-[1200px] max-w-[500px] m-auto w-full h-full flex justify-between items-center md:px-0 px-4">
+      <div className="md:max-w-[1000px] max-w-[500px] m-auto w-full h-full flex justify-between items-center md:px-0 px-4">
         <Link to="/"> <p className="text-2xl text-blue-700 tracking-wide hover:text-blue-900">Ayush Sharma</p></Link>
         <div className="hidden md:flex items-center ">
           <ul className="flex gap-6">
