@@ -26,7 +26,7 @@ const Home = () => {
             <p className="text-4xl text-blue-700 tracking-wide mb-3"> Built</p>
             <div className="flex flex-col">
                 <div className="text-lg font-semibold text-blue-500"> Fleet </div>
-                <div className="text-md italic"> • Lets you read faster by focusing only on the most important words in a text. (600+ Installs, 5 star rating)</div>
+                <div className="text-md"> • Lets you read faster by focusing only on the most important words in a text. (600+ Installs, 5 star rating)</div>
             </div>
             <div className="flex flex-col gap-1">
                 <div className="text-lg font-semibold text-blue-500"> Write My SOP : SOP review system (350+ Users) (Website) </div>
